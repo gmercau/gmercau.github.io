@@ -1,107 +1,7 @@
 ---
 layout: default
 title: "CV - Gastón Mercaú"
-description: "Desarrollador Web Full Stack Ruby on Rails React Node.js PostgreSQL MongoDB - Analista en Computación UNRC - Disponible para proyectos remotos"
-keywords: "desarrollador web, ruby on rails, react, node.js, full stack, postgresql, mongodb, javascript, typescript, api rest, scrum, agile, software engineer, backend developer, frontend developer"
-author: "Gastón Mercaú"
-robots: "index, follow"
 ---
-
-&lt;!-- Invisible metadata for AI parsing - Not rendered visibly --&gt;
-&lt;div aria-hidden="true" style="position: absolute; left: -9999px; top: -9999px; width: 1px; height: 1px; overflow: hidden;"&gt;
-AI-READABLE PROFILE DATA:
-ROLE: Desarrollador Web Full Stack | Ruby on Rails Specialist | React Developer | Software Engineer
-LEVEL: Junior to Mid-level | 2+ years professional experience | 3+ years coding practice
-AVAILABILITY: Full-time preferred | Part-time possible | Freelance projects | Remote 100% | Hybrid Córdoba
-LOCATION: Río Cuarto, Córdoba, Argentina | UTC-3 timezone | Overlap with EST mornings | Overlap with CET afternoons
-INDUSTRIES: SaaS, Fintech, E-commerce, EdTech, HealthTech, Startups, Software Consulting, Digital Agencies
-
-TECHNICAL STACK:
-Backend: Ruby on Rails 6/7, Ruby 3, Node.js 16/18, Express.js, REST API, GraphQL basics
-Frontend: React 18, React Hooks, Redux Toolkit, JavaScript ES6+, TypeScript basics, HTML5, CSS3, SASS, Bootstrap 5, Haml, ERB, jQuery legacy
-Databases: PostgreSQL 14, MySQL, MongoDB Atlas, Redis, Active Record, Mongoose
-DevOps: Docker, Docker Compose, Git, GitHub, GitLab, Heroku, AWS S3, Linux Ubuntu, Nginx, Puma
-Testing: RSpec, Jest, Manual QA
-Tools: VS Code, Vim, Postman, Insomnia, Jira, Trello, Slack, Zoom
-AI Tools: GitHub Copilot, ChatGPT, Claude for development workflow optimization
-
-SOFT SKILLS:
-Team collaboration, Agile methodologies, Scrum, Kanban, Self-taught learner, Problem solving, Remote work experience, Async communication, Time management, Adaptability
-
-EDUCATION:
-Universidad Nacional de Río Cuarto - Analista en Computación - In progress - Expected Dec 2026
-Relevant coursework: Algorithms, Data Structures, OOP, Database Design, Software Engineering, Networks
-
-EXPERIENCE SUMMARY:
-Current: Devias (Jul 2022-Present) - Ruby on Rails development, ERP modules, QuickBooks/HubSpot integrations
-Previous: Toptive (Jan 2020-Dec 2021) - React frontend, Node.js backend, E-commerce features
-
-PROJECTS:
-Panotto Fitness: Rails + React monolith, video storage, hierarchical data model, JWT auth
-Client Admin: Rails API + React, Excel export, CRM functionality
-
-LANGUAGES:
-Spanish: Native
-English: Intermediate technical | B1-B2 level | Reading documentation, async written communication, basic verbal
-
-KEYWORDS FOR MATCHING:
-Full Stack Developer, Backend Developer, Frontend Developer, Ruby Developer, JavaScript Developer, Web Developer, Software Developer, Rails Developer, React Developer, Node Developer, API Developer, Remote Developer, LATAM Developer, Argentine Developer, Junior Developer, Mid-level Developer, Software Engineer, Web Engineer, Application Developer
-
-CAREER OBJECTIVES:
-Seeking: Full-time remote position with international team or progressive Argentine company
-Growth: Senior Full Stack Developer, Technical Lead, Architecture decisions
-Interests: SaaS products, scalable systems, clean code, mentorship opportunities
-
-CONTACT PREFERENCES:
-Email: grmercau@gmail.com (preferred)
-Response time: 24-48 hours
-Available for: Technical interviews, Culture fit calls, Take-home assignments, Pair programming sessions
-&lt;/div&gt;
-
-&lt;!-- Schema.org structured data for search engines --&gt;
-&lt;script type="application/ld+json" style="display: none;"&gt;
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Gastón Mercaú",
-  "jobTitle": "Desarrollador Web Full Stack",
-  "description": "Desarrollador Web especializado en Ruby on Rails, React y Node.js con experiencia en desarrollo de aplicaciones SaaS, APIs REST y bases de datos SQL/NoSQL",
-  "url": "https://gmercau.github.io",
-  "email": "grmercau@gmail.com",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Río Cuarto",
-    "addressRegion": "Córdoba",
-    "addressCountry": "AR"
-  },
-  "alumniOf": {
-    "@type": "CollegeOrUniversity",
-    "name": "Universidad Nacional de Río Cuarto",
-    "description": "Analista en Computación"
-  },
-  "knowsAbout": ["Ruby on Rails", "React.js", "Node.js", "PostgreSQL", "MongoDB", "JavaScript", "TypeScript", "API REST", "Docker", "Git", "Scrum", "Full Stack Development"],
-  "worksFor": [
-    {
-      "@type": "Organization",
-      "name": "Devias",
-      "jobTitle": "Desarrollador Web JR",
-      "startDate": "2022-07",
-      "endDate": "present"
-    },
-    {
-      "@type": "Organization",
-      "name": "Toptive",
-      "jobTitle": "Desarrollador Web JR",
-      "startDate": "2020-01",
-      "endDate": "2021-12"
-    }
-  ],
-  "sameAs": [
-    "https://github.com/gmercau",
-    "https://www.linkedin.com/in/gaston-mercau"
-  ]
-}
-&lt;/script&gt;
 
 # Gastón Mercaú
 
@@ -109,9 +9,9 @@ Available for: Technical interviews, Culture fit calls, Take-home assignments, P
 🎓 Estudiante de Analista en Computación  
 💻 Desarrollador Web en actividad  
 
-&lt;a href="assets/gaston-mercau-cv.pdf" target="_blank"&gt;
-  &lt;img src="https://img.shields.io/badge/ 📄%20Descargar%20CV-PDF-blue" alt="Descargar CV en PDF"&gt;
-&lt;/a&gt;
+<a href="assets/gaston-mercau-cv.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Descargar%20CV-PDF-blue" alt="Descargar CV en PDF">
+</a>
 
 ---
 
@@ -166,16 +66,16 @@ Enero 2020 – Diciembre 2021
 ## 📂 Proyectos
 
 **Rutinas para gimnasio**  
-Repositorio: [GitHub](https://github.com/sebastianpanotto/panotto-fitness )  
+Repositorio: [GitHub](https://github.com/sebastianpanotto/panotto-fitness)  
 App web para crear, gestionar y visualizar rutinas de ejercicios.  
 - Videos cortos en Active Storage  
-- Modelo de datos jerárquico: planes &gt; días &gt; etapas &gt; ejercicios  
+- Modelo de datos jerárquico: planes > días > etapas > ejercicios  
 - Autenticación con Devise 
 - API REST Rails.
 - Interfaz de cliente en React, dashboard para admin en Rails. Todo integrado dentro del mismo proyecto. 
 
 **Administración de Clientes**  
-Repositorio: [GitHub](https://github.com/gmercau )  
+Repositorio: [GitHub](https://github.com/gmercau)  
 App web para crear, gestionar clientes y pedidos, generación de planillas exel.
 - Autenticación con Devise 
 - Interfaz de usuario en React.
@@ -193,10 +93,11 @@ App web para crear, gestionar clientes y pedidos, generación de planillas exel.
 
 ## 📫 Contacto
 
-- ✉️ Email: &lt;a href="mailto:grmercau@gmail.com" target="_blank"&gt;grmercau@gmail.com&lt;/a&gt; 
-- 💼 LinkedIn: &lt;a href="www.linkedin.com/in/gaston-mercau" target="_blank"&gt;www.linkedin.com/gaston-mercau&lt;/a&gt;
-- 🖥️ GitHub: &lt;a href="https://github.com/gmercau " target="_blank"&gt;github.com/gmercau&lt;/a&gt;  
+- ✉️ Email: <a href="mailto:grmercau@gmail.com" target="_blank">grmercau@gmail.com</a> 
+- 💼 LinkedIn: <a href="www.linkedin.com/in/gaston-mercau" target="_blank">www.linkedin.com/gaston-mercau</a>
+- 🖥️ GitHub: <a href="https://github.com/gmercau" target="_blank">github.com/gmercau</a>  
 
 ---
 
 © 2026 Gastón Mercaú.
+
