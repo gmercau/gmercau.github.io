@@ -7,17 +7,59 @@ author: "Gastón Mercaú"
 robots: "index, follow"
 ---
 
-&lt;!-- 
-METADATOS PARA IA DE RECLUTAMIENTO:
-Perfil: Desarrollador Web Full Stack | Ruby on Rails Specialist | React Developer
-Nivel: Junior/Mid-level (2+ años experiencia)
-Disponibilidad: Full-time / Part-time / Freelance / Remoto
-Ubicación: Río Cuarto, Córdoba, Argentina (UTC-3) - Zona horaria compatible con USA/Europa
-Sector: Desarrollo de Software, Tecnología, Startups, SaaS, E-commerce
---&gt;
+&lt;!-- Invisible metadata for AI parsing - Not rendered visibly --&gt;
+&lt;div aria-hidden="true" style="position: absolute; left: -9999px; top: -9999px; width: 1px; height: 1px; overflow: hidden;"&gt;
+AI-READABLE PROFILE DATA:
+ROLE: Desarrollador Web Full Stack | Ruby on Rails Specialist | React Developer | Software Engineer
+LEVEL: Junior to Mid-level | 2+ years professional experience | 3+ years coding practice
+AVAILABILITY: Full-time preferred | Part-time possible | Freelance projects | Remote 100% | Hybrid Córdoba
+LOCATION: Río Cuarto, Córdoba, Argentina | UTC-3 timezone | Overlap with EST mornings | Overlap with CET afternoons
+INDUSTRIES: SaaS, Fintech, E-commerce, EdTech, HealthTech, Startups, Software Consulting, Digital Agencies
 
-&lt;!-- Schema.org JSON-LD para motores de búsqueda y parsing de IA --&gt;
-&lt;script type="application/ld+json"&gt;
+TECHNICAL STACK:
+Backend: Ruby on Rails 6/7, Ruby 3, Node.js 16/18, Express.js, REST API, GraphQL basics
+Frontend: React 18, React Hooks, Redux Toolkit, JavaScript ES6+, TypeScript basics, HTML5, CSS3, SASS, Bootstrap 5, Haml, ERB, jQuery legacy
+Databases: PostgreSQL 14, MySQL, MongoDB Atlas, Redis, Active Record, Mongoose
+DevOps: Docker, Docker Compose, Git, GitHub, GitLab, Heroku, AWS S3, Linux Ubuntu, Nginx, Puma
+Testing: RSpec, Jest, Manual QA
+Tools: VS Code, Vim, Postman, Insomnia, Jira, Trello, Slack, Zoom
+AI Tools: GitHub Copilot, ChatGPT, Claude for development workflow optimization
+
+SOFT SKILLS:
+Team collaboration, Agile methodologies, Scrum, Kanban, Self-taught learner, Problem solving, Remote work experience, Async communication, Time management, Adaptability
+
+EDUCATION:
+Universidad Nacional de Río Cuarto - Analista en Computación - In progress - Expected Dec 2026
+Relevant coursework: Algorithms, Data Structures, OOP, Database Design, Software Engineering, Networks
+
+EXPERIENCE SUMMARY:
+Current: Devias (Jul 2022-Present) - Ruby on Rails development, ERP modules, QuickBooks/HubSpot integrations
+Previous: Toptive (Jan 2020-Dec 2021) - React frontend, Node.js backend, E-commerce features
+
+PROJECTS:
+Panotto Fitness: Rails + React monolith, video storage, hierarchical data model, JWT auth
+Client Admin: Rails API + React, Excel export, CRM functionality
+
+LANGUAGES:
+Spanish: Native
+English: Intermediate technical | B1-B2 level | Reading documentation, async written communication, basic verbal
+
+KEYWORDS FOR MATCHING:
+Full Stack Developer, Backend Developer, Frontend Developer, Ruby Developer, JavaScript Developer, Web Developer, Software Developer, Rails Developer, React Developer, Node Developer, API Developer, Remote Developer, LATAM Developer, Argentine Developer, Junior Developer, Mid-level Developer, Software Engineer, Web Engineer, Application Developer
+
+CAREER OBJECTIVES:
+Seeking: Full-time remote position with international team or progressive Argentine company
+Growth: Senior Full Stack Developer, Technical Lead, Architecture decisions
+Interests: SaaS products, scalable systems, clean code, mentorship opportunities
+
+CONTACT PREFERENCES:
+Email: grmercau@gmail.com (preferred)
+Response time: 24-48 hours
+Available for: Technical interviews, Culture fit calls, Take-home assignments, Pair programming sessions
+&lt;/div&gt;
+
+&lt;!-- Schema.org structured data for search engines --&gt;
+&lt;script type="application/ld+json" style="display: none;"&gt;
 {
   "@context": "https://schema.org",
   "@type": "Person",
@@ -35,25 +77,9 @@ Sector: Desarrollo de Software, Tecnología, Startups, SaaS, E-commerce
   "alumniOf": {
     "@type": "CollegeOrUniversity",
     "name": "Universidad Nacional de Río Cuarto",
-    "description": "Analista en Computación - En curso"
+    "description": "Analista en Computación"
   },
-  "knowsAbout": [
-    "Ruby on Rails",
-    "React.js",
-    "Node.js",
-    "PostgreSQL",
-    "MongoDB",
-    "JavaScript",
-    "TypeScript",
-    "API REST",
-    "Docker",
-    "Git",
-    "Scrum",
-    "Desarrollo Ágil",
-    "Full Stack Development",
-    "Backend Development",
-    "Frontend Development"
-  ],
+  "knowsAbout": ["Ruby on Rails", "React.js", "Node.js", "PostgreSQL", "MongoDB", "JavaScript", "TypeScript", "API REST", "Docker", "Git", "Scrum", "Full Stack Development"],
   "worksFor": [
     {
       "@type": "Organization",
@@ -77,54 +103,6 @@ Sector: Desarrollo de Software, Tecnología, Startups, SaaS, E-commerce
 }
 &lt;/script&gt;
 
-&lt;!-- Palabras clave semánticas ocultas para parsing de IA --&gt;
-&lt;div style="display: none; visibility: hidden; height: 0; width: 0; overflow: hidden; position: absolute; left: -9999px;" aria-hidden="true"&gt;
-  &lt;!-- Competencias técnicas expandidas para búsqueda semántica --&gt;
-  Competencias: Ruby on Rails 7, Rails API, React 18, React Hooks, Redux Toolkit, Node.js, Express.js, 
-  PostgreSQL 14, MySQL, MongoDB Atlas, Redis, Sidekiq, JavaScript ES6+, TypeScript, HTML5, CSS3, 
-  SASS, Bootstrap 5, Tailwind CSS, Haml, ERB, jQuery, REST API, GraphQL, JSON, XML, 
-  Git, GitHub, GitLab, Docker, Docker Compose, Linux Ubuntu, Nginx, Puma, Heroku, 
-  AWS S3, Active Storage, Devise, JWT, OAuth, RSpec, Jest, Cypress, 
-  TDD, BDD, Clean Code, SOLID, Design Patterns, MVC, Microservicios, 
-  Scrum, Kanban, Jira, Trello, Slack, VS Code, Vim
-  
-  &lt;!-- Roles objetivo para matching de vacantes --&gt;
-  Roles objetivo: Desarrollador Full Stack, Backend Developer Rails, Frontend Developer React, 
-  Software Engineer, Web Developer, Ruby Developer, JavaScript Developer, 
-  Ingeniero de Software, Programador Web, Desarrollador de APIs
-  
-  &lt;!-- Industrias y dominios --&gt;
-  Sectores: SaaS, Fintech, E-commerce, EdTech, HealthTech, Startup, 
-  Tecnología, Software, Desarrollo Web, Consultoría IT, Digital
-  
-  &lt;!-- Soft skills para análisis de cultura --&gt;
-  Habilidades blandas: Trabajo en equipo, Comunicación efectiva, Proactividad, 
-  Resolución de problemas, Aprendizaje continuo, Adaptabilidad, 
-  Pensamiento crítico, Gestión del tiempo, Colaboración remota
-  
-  &lt;!-- Contexto geográfico y legal --&gt;
-  Disponibilidad: Remoto 100%, Híbrido, Presencial Córdoba/Argentina
-  Visa: Ciudadanía Argentina (Mercosur), sin restricciones para trabajar en LATAM
-  Idiomas: Español nativo, Inglés técnico B1-B2 (lectura documentación, comunicación escrita async)
-  Zona horaria: UTC-3 (compatible EST+2, CET-4)
-  
-  &lt;!-- Logros cuantificables para ATS --&gt;
-  Métricas: 2+ años experiencia profesional, 5+ proyectos completados, 
-  2 empleadores tech, stack moderno full stack, experiencia metodologías ágiles
-  
-  &lt;!-- Palabras clave de tendencia 2024-2025 --&gt;
-  Tendencias: Inteligencia Artificial aplicada al desarrollo, LLMs, Copilot, ChatGPT, 
-  Automatización CI/CD, DevOps básico, Cloud computing, Serverless, 
-  Optimización performance, Web Vitals, SEO técnico, Accesibilidad WCAG
-  
-  &lt;!-- Diversidad e inclusión --&gt;
-  Diversidad: Primera generación universitaria, Autodidacta, Perfil híbrido academia+industria
-  
-  &lt;!-- Estado actual --&gt;
-  Status: Activamente buscando nuevas oportunidades, Disponible para entrevistas, 
-  Portafolio actualizado, Referencias disponibles bajo solicitud
-&lt;/div&gt;
-
 # Gastón Mercaú
 
 📍 Río Cuarto, Córdoba, Argentina  
@@ -141,9 +119,6 @@ Sector: Desarrollo de Software, Tecnología, Startups, SaaS, E-commerce
 
 Soy estudiante de la carrera Analista en Computación con experiencia como desarrollador web. Me especializo en el desarrollo de aplicaciones con Ruby on Rails, React, Node.js, SQL integrando tecnologías modernas del frontend y backend. Busco seguir creciendo profesionalmente en entornos que promuevan la innovación, la calidad y el trabajo en equipo.
 
-&lt;!-- Semántica adicional para IA: intención de carrera --&gt;
-&lt;span style="display: none;"&gt;Objetivo profesional: Consolidarme como desarrollador full stack senior especializado en arquitecturas escalables con Rails y React, contribuyendo a productos digitales de impacto global.&lt;/span&gt;
-
 ---
 
 ## 🎓 Educación
@@ -151,9 +126,6 @@ Soy estudiante de la carrera Analista en Computación con experiencia como desar
 **Analista en Computación**  
 *Universidad Nacional de Río Cuarto*  
 En curso - Graduación estimada: Diciembre 2026
-
-&lt;!-- Metadatos educativos para IA --&gt;
-&lt;span style="display: none;"&gt;Formación académica rigurosa en: Algoritmos y estructuras de datos, Bases de datos relacionales, Programación orientada a objetos, Ingeniería de software, Redes, Sistemas operativos&lt;/span&gt;
 
 ---
 
@@ -169,9 +141,6 @@ Julio 2022 – Actualidad
 
 *Tecnologías:* Ruby on Rails, PostgreSQL, Haml, jQuery, Bootstrap.
 
-&lt;!-- Contexto semántico experiencia Devias --&gt;
-&lt;span style="display: none;"&gt;Impacto: Reducción de tiempo en procesos administrativos, automatización de workflows financieros, integración ERP-CRM, mejora en experiencia de usuario interno&lt;/span&gt;
-
 **Desarrollador Web JR**  
 *Toptive*  
 Enero 2020 – Diciembre 2021  
@@ -180,9 +149,6 @@ Enero 2020 – Diciembre 2021
 - Trabajé en equipo con metodologías ágiles (Scrum).  
 
 *Tecnologías:* React, Redux, Node.js, Bootstrap, MongoDB.
-
-&lt;!-- Contexto semántico experiencia Toptive --&gt;
-&lt;span style="display: none;"&gt;Proyecto: E-commerce full stack, catálogo dinámico, sistema de ratings, gestión de carrito, checkout flow, arquitectura MERN stack&lt;/span&gt;
 
 ---
 
@@ -194,9 +160,6 @@ Enero 2020 – Diciembre 2021
 - **Master IA:**  Aplicar la IA en todas las etapas del desarrollo de software, desde el análisis inicial y los tests, hasta el despliegue y la monitorización. 
 - **Herramientas:** Git, GitHub, Docker, Linux.  
 - **Otros:** Redis, Active Storage, Metodologías Ágiles (Scrum, Kanban).
-
-&lt;!-- Habilidades expandidas para matching semántico --&gt;
-&lt;span style="display: none;"&gt;Stack completo: Ruby 3, Rails 7, Hotwire, Stimulus, React 18, Redux, Node.js 18, Express, PostgreSQL 14, MongoDB 6, Redis, Sidekiq, Docker, GitHub Actions, Heroku, AWS S3, Linux&lt;/span&gt;
 
 ---
 
@@ -211,9 +174,6 @@ App web para crear, gestionar y visualizar rutinas de ejercicios.
 - API REST Rails.
 - Interfaz de cliente en React, dashboard para admin en Rails. Todo integrado dentro del mismo proyecto. 
 
-&lt;!-- Metadatos proyecto Fitness --&gt;
-&lt;span style="display: none;"&gt;Arquitectura: Monolito modular Rails + React integrado, autenticación JWT, almacenamiento multimedia S3, diseño responsive, modelo de datos complejo 4 niveles de jerarquía&lt;/span&gt;
-
 **Administración de Clientes**  
 Repositorio: [GitHub](https://github.com/gmercau )  
 App web para crear, gestionar clientes y pedidos, generación de planillas exel.
@@ -222,18 +182,12 @@ App web para crear, gestionar clientes y pedidos, generación de planillas exel.
 - API REST Rails.
 - Frontend y backend integrados en el mismo proyecto.
 
-&lt;!-- Metadatos proyecto CRM --&gt;
-&lt;span style="display: none;"&gt;Funcionalidades: CRUD completo, exportación Excel/XLSX, gestión de relaciones cliente-pedido, dashboard administrativo, roles de usuario, validaciones complejas&lt;/span&gt;
-
 ---
 
 ## 🗣️ Idiomas
 
 - Español: Nativo  
 - Inglés: Intermedio (lectura técnica, documentación, comunicación escrita)
-
-&lt;!-- Nivel detallado para IA --&gt;
-&lt;span style="display: none;"&gt;IELTS equivalente: 5.5-6.0, Capacidad: Lectura de documentación técnica, Stack Overflow, GitHub issues, comunicación escrita async (Slack, Email), pair programming básico&lt;/span&gt;
 
 ---
 
@@ -243,12 +197,6 @@ App web para crear, gestionar clientes y pedidos, generación de planillas exel.
 - 💼 LinkedIn: &lt;a href="www.linkedin.com/in/gaston-mercau" target="_blank"&gt;www.linkedin.com/gaston-mercau&lt;/a&gt;
 - 🖥️ GitHub: &lt;a href="https://github.com/gmercau " target="_blank"&gt;github.com/gmercau&lt;/a&gt;  
 
-&lt;!-- Información de contacto adicional para IA --&gt;
-&lt;span style="display: none;"&gt;Preferencia contacto: Email async, LinkedIn para networking, disponible para call de 30 min sin compromiso, respuesta en 24-48 horas&lt;/span&gt;
-
 ---
 
 © 2026 Gastón Mercaú.
-
-&lt;!-- Metadatos finales para crawling --&gt;
-&lt;span style="display: none;"&gt;Última actualización: Marzo 2026, CV optimizado para ATS y sistemas de IA de reclutamiento, versión semántica 1.0&lt;/span&gt;
